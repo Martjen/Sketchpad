@@ -1,0 +1,18 @@
+#container {
+	width: 800px;
+	height: 600px;
+	margin: auto;
+}
+
+.divobj {
+	float: left;
+	height: 25px;
+	width: 25px;
+	margin: 1px 1px 1px 1px;
+	border: 1px solid gray;
+	border-radius: 2px;
+}
+
+.highlight {
+	background-color: #f5f5f5;
+}
